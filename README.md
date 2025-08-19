@@ -12,16 +12,18 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently a student at **RVCE**, batch of 2026  
-- 🔧 Building cool things with code, especially in **React**, **Node.js**, and **Firebase**  
-- 👀 Exploring the world of **AI**, **Product Strategy**, and **Quantum ML**  
-- ✨ I love blending tech with creativity – whether it’s frontend magic or backend logic  
-- 🗣️ Always up for brainstorming, collaborating, or jamming on a weekend project
+- 🎓 Student at **RVCE (Batch of 2026)**  
+- 🔧 Building cool things with **React**, **Node.js**, and **Firebase**  
+- 👀 Exploring **AI**, **Product Strategy**, and **Quantum ML**  
+- ✨ Love mixing **tech + creativity** – from frontend polish to backend logic  
+- 🗣️ Always up for **collabs, brainstorming, and weekend hackathons**  
 
 ---
 
 ## ⚙️ Tech Stack
 
+<p align="center">
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -30,6 +32,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css)
+
+</p>
 
 ---
 
@@ -40,15 +44,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=radical" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUNAGARWAL09&theme=radical" height="180" />
+</p>
+
 ---
 
 ## 🧪 Projects & Cool Stuff
 
-- 🌐 Built full-stack apps with real-time features  
-- 📱 Designed and developed responsive UIs using React + Tailwind  
-- 🧠 Working on a Quantum Machine Learning + Malware Detection project  
-- 💡 Dabbled in IoT + AI-powered Disaster Management Systems  
-- 📊 Built smart dashboards for data visualization with Chart.js & Leaflet  
+- 🌐 Built **full-stack apps** with real-time features  
+- 📱 Designed sleek **responsive UIs** using React + Tailwind  
+- 🧠 Researching **Quantum Machine Learning for Malware Detection**  
+- 💡 Prototyped **IoT + AI-powered Disaster Management Systems**  
+- 📊 Developed **interactive dashboards** with Chart.js & Leaflet  
 
 ---
 
@@ -60,20 +68,24 @@
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
 </p>
 
-> _"if (!tired) { keepCoding(); } else { drinkCoffee(); }"_ ☕  
+<p align="center">
+  <em>"if (!tired) { keepCoding(); } else { drinkCoffee(); } ☕"</em>
+</p>
 
 ---
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/varun-agarwal-069991233/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/varunagarwal09?igsh=MWdsb3JxcTJlZWlmaQ==)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail)](mailto:varunagarwal0964@gmail.com)
+<p align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-agarwal-069991233/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varunagarwal09?igsh=MWdsb3JxcTJlZWlmaQ==)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunagarwal0964@gmail.com)  
+
+</p>
 
 ---
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
