@@ -85,21 +85,6 @@ Node.js • Express • Firebase • Supabase • AWS
 **Security & AI**  
 Machine Learning • Quantum ML • Cryptography • Network Security  
 
----
----
-
----
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/VARUNAGARWAL09.png" width="150" />
-</p>
-
-You can view my full contribution activity directly on my GitHub profile.
-
-
 ## 📬 Let’s Connect
 
 <p align="center">
