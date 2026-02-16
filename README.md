@@ -1,85 +1,46 @@
-<h1 align="center">Hi, I'm Varun Agarwal 👋</h1>
+---
 
-<p align="center">
-  🚀 Cyber Security Engineer | 🧠 AI Researcher | ☁️ Cloud Enthusiast  
-</p>
+## 🚀 Featured Projects
+
+### 🔐 QryptoNet – Quantum Malware Detection
+Quantum Support Vector Machine (QSVM) for detecting malicious patterns in encrypted TLS traffic without decryption.
+
+- IEEE Published Research
+- Privacy-preserving malware detection
+- Combines Quantum ML + Network Security
 
 ---
 
-## 🧠 About Me
+### 🌍 Haven – AI-Powered Disaster Monitoring Platform
+Real-time disaster detection and response system integrating IoT sensors and predictive analytics.
 
-- 🎓 B.E. Computer Science (Cyber Security) @ RVCE (Batch of 2026)
-- 📄 IEEE Published Researcher – Quantum ML for Encrypted Malware Detection
-- 🔐 Passionate about Cyber Security, AI, and Cloud Infrastructure
-- 🛠️ Building real-time, scalable, and security-focused systems
-- 🎯 Focused on impact-driven tech — not just code, but outcomes
-
----
-
-## 🧪 Featured Projects
-
-### 🔹 QryptoNet
-Quantum Support Vector Machine (QSVM) for detecting malware patterns in encrypted TLS traffic — without decryption.
-
-→ IEEE Published  
-→ Combines Quantum ML + Cyber Security  
+- Live sensor data ingestion
+- AI-based early warning system
+- GIS visualization for situational awareness
 
 ---
 
-### 🔹 Haven
-Real-time Disaster Monitoring & Response Platform
+### 🧠 KenshiBrainWatch – Neuromorphic Threat Visualization
+Cybersecurity monitoring platform powered by Spiking Neural Networks.
 
-→ IoT + AI-powered predictive alerts  
-→ Live sensor monitoring + GIS visualization  
-
----
-
-### 🔹 KenshiBrainWatch
-Neuromorphic Cyber Threat Visualization Platform
-
-→ Spiking Neural Networks  
-→ Real-time anomaly detection + 3D neural visualization  
+- Real-time anomaly detection
+- 3D neural activity visualization
+- Built with React + Three.js + Custom SNN backend
 
 ---
 
-## ⚙️ Tech Stack
+### 🛡️ AI SOC Platform
+AI-assisted Security Operations Center simulation platform.
 
-**Languages:**  
-Python | Java | JavaScript | TypeScript  
-
-**Frontend:**  
-React | Tailwind | Three.js  
-
-**Backend & Cloud:**  
-Node.js | Express | Firebase | Supabase | AWS  
-
-**Security & AI:**  
-Machine Learning | Quantum ML | Cryptography | Network Security  
+- Automated alert triage
+- Threat classification models
+- Python-based ML backend
 
 ---
 
-## 📈 GitHub Stats
+### 🚨 Incident Commander Hub
+Operational dashboard for structured incident response workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/varun-agarwal-069991233/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:varunagarwal0964@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Security is not a feature. It's a mindset."</i>
-</p>
+- Role-based task assignment
+- Real-time status tracking
+- TypeScript + Node.js backend
