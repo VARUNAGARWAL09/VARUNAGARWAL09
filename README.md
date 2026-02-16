@@ -1,74 +1,68 @@
-
-<h1 align="center">Hey there, I'm Varun Agarwal 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+<h1 align="center">Hi, I'm Varun Agarwal 👋</h1>
 
 <p align="center">
-  🚀 Curious Mind | 💻 Developer | 🎨 Designer | 🔍 Product Explorer  
+  🚀 Cyber Security Engineer | 🧠 AI Researcher | ☁️ Cloud Enthusiast  
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student at **RVCE (Batch of 2026)**
-- 🔧 Building cool things with **React**, **Node.js**, and **Firebase**
-- 👀 Exploring **AI**, **Product Strategy**, and **Quantum ML**
-- ✨ Love mixing **tech + creativity** – from frontend polish to backend logic
-- 🗣️ Always up for **collabs, brainstorming, and weekend hackathons**
+- 🎓 B.E. Computer Science (Cyber Security) @ RVCE (Batch of 2026)
+- 📄 IEEE Published Researcher – Quantum ML for Encrypted Malware Detection
+- 🔐 Passionate about Cyber Security, AI, and Cloud Infrastructure
+- 🛠️ Building real-time, scalable, and security-focused systems
+- 🎯 Focused on impact-driven tech — not just code, but outcomes
+
+---
+
+## 🧪 Featured Projects
+
+### 🔹 QryptoNet
+Quantum Support Vector Machine (QSVM) for detecting malware patterns in encrypted TLS traffic — without decryption.
+
+→ IEEE Published  
+→ Combines Quantum ML + Cyber Security  
+
+---
+
+### 🔹 Haven
+Real-time Disaster Monitoring & Response Platform
+
+→ IoT + AI-powered predictive alerts  
+→ Live sensor monitoring + GIS visualization  
+
+---
+
+### 🔹 KenshiBrainWatch
+Neuromorphic Cyber Threat Visualization Platform
+
+→ Spiking Neural Networks  
+→ Real-time anomaly detection + 3D neural visualization  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css"/>
-</p>
+**Languages:**  
+Python | Java | JavaScript | TypeScript  
+
+**Frontend:**  
+React | Tailwind | Three.js  
+
+**Backend & Cloud:**  
+Node.js | Express | Firebase | Supabase | AWS  
+
+**Security & AI:**  
+Machine Learning | Quantum ML | Cryptography | Network Security  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUNAGARWAL09&theme=radical" height="180" />
-</p>
-
----
-
-## 🧪 Projects & Cool Stuff
-
-- 🌐 Built **full-stack apps** with real-time features
-- 📱 Designed sleek **responsive UIs** using React + Tailwind
-- 🧠 Researching **Quantum Machine Learning for Malware Detection**
-- 💡 Prototyped **IoT + AI-powered Disaster Management Systems**
-- 📊 Developed **interactive dashboards** with Chart.js & Leaflet
-
----
-
-## 🎨 Stickers & Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <em>"if (!tired) { keepCoding(); } else { drinkCoffee(); } ☕"</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -77,21 +71,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varun-agarwal-069991233/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/varunagarwal09?igsh=MWdsb3JxcTJlZWlmaQ==">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:varunagarwal0964@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/VARUNAGARWAL09/VARUNAGARWAL09/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <i>"Security is not a feature. It's a mindset."</i>
 </p>
-
----
-
