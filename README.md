@@ -86,15 +86,18 @@ Node.js • Express • Firebase • Supabase • AWS
 Machine Learning • Quantum ML • Cryptography • Network Security  
 
 ---
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&count_private=true&theme=dark&hide_border=true" height="170"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
+
 
 ## 📬 Let’s Connect
 
