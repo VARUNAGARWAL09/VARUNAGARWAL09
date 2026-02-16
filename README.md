@@ -89,16 +89,15 @@ Machine Learning • Quantum ML • Cryptography • Network Security
 ---
 
 ---
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VARUNAGARWAL09&show_icons=true&theme=dark&hide_border=true" height="170"/>
-</p>
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VARUNAGARWAL09&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github.com/VARUNAGARWAL09.png" width="150" />
 </p>
+
+You can view my full contribution activity directly on my GitHub profile.
 
 
 ## 📬 Let’s Connect
